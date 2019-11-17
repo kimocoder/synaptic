@@ -4,6 +4,7 @@ synaptic (0.84.9) UNRELEASED; urgency=medium
   * Use secure URI in Homepage field.
   * debian/control: Add Vcs-Browser field
   * Bump debhelper from deprecated 8 to 12.
+  * Drop unnecessary dependency on dh-autoconf.
 
  -- Debian Janitor <janitor@jelmer.uk>  Sun, 17 Nov 2019 01:49:51 +0000
 
